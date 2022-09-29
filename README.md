@@ -1,3 +1,3 @@
 # vous-etes-le-heros-asie-survie
 
-!(assets/drawio.png)
+!(/assets/logo.png)
